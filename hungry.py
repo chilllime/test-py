@@ -7,3 +7,4 @@ if inp==1:
     print('i love ice cream')
 else:
     print('enjoy the day')
+
